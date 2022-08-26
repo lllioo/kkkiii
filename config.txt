@@ -1,0 +1,30 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx35d4d3e47be545c5",
+# 公众号appSecret
+"app_secret": "c2086c8f42eaed66e0abac2a96912009",
+# 模板消息id
+"template_id": "qSLcYtvQEPgRWkvbdRJI0EQ0f063ckmHcNls6lZqbRw",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o6x3L57SsZlU4HGz_t30j6uPJBvw”，“o6x3L5y0QiLKvUwlwRsiwiqARBms"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "42df6dbe7bd04222880bea2ef9518bc5",
+# 天行数据apikey
+"tian_api": " d5e02795a64792328e4b07e20f1a3044",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "衡阳市",
+# 生日1
+"birthday1": {"name": "静宝", "birthday": "1997-04-21"},
+# 生日2
+"birthday2": {"name": "威酱", "birthday": "r1998-05-16"},
+# 在一起的日子，格式同上
+"love_date": "2022-06-01",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": "Since God has given us the honor to meet, there must be its arrangement. Don't question my love for you. You will always be my first choice. 
+For me, you are the best. You have the best voice, the best smell, and the best smile. I never envy anyone when you are with me."
+}
